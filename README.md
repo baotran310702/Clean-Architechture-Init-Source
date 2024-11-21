@@ -34,7 +34,7 @@ lib/
 │   │   └── failure.dart
 │   └── usecases/                 # Base use case structure
 │       └── usecase.dart
-│
+│   
 ├── data/                         # Data Layer: Handles data sources and repository implementation
 │   ├── datasources/
 │   │   ├── local_user_data_source.dart
@@ -106,7 +106,7 @@ cd your-repo
 <ul>
   <li><code>get_it</code>: Service Locator for dependency injection.</li>
   <li><code>dartz</code>: Functional programming utilities.</li>
-  <li><code>http</code>: Handles remote API calls.</li>
+  <li><code>Dio</code>: Handles remote API calls.</li>
 </ul>
 
 <h2>Contributing</h2>
